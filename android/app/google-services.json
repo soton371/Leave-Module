@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379309267894",
+    "project_id": "teacher-91d6a",
+    "storage_bucket": "teacher-91d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379309267894:android:708161ae543468bea9ff17",
+        "android_client_info": {
+          "package_name": "com.excelitai.teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379309267894-v7pucvha506k5ih34qnbknvoo67jnlm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaj5NexOLfI0k2uh39TzvcFRAvEt42XIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379309267894-v7pucvha506k5ih34qnbknvoo67jnlm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
